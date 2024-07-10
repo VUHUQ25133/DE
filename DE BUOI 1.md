@@ -33,6 +33,7 @@ Hay hiểu đơn giản, hệ quản trị CSDL là hệ thống tự động h�
 
 ### 2.1. Cấu trúc của hệ quản trị cơ sở dữ liệu bao gồm những gì?
 Cấu trúc chính của hệ quản trị cơ sở dữ liệu thường được chia thành:
+![image](https://github.com/VUHUQ25133/DE/assets/146147897/c6b6f637-4c73-42a1-a872-123df53d41ba)
 
 **Thao tác với DBMS**
 Các thao tác chính này gồm các thay đổi sơ đồ, các truy vấn và các thay đổi dữ liệu. Cụ thể các truy vấn sẽ là những yêu cầu về dữ liệu, hỏi đáp trong DBMS. Các thay đổi sơ đồ là việc thay đổi của người dùng quản trị cơ sở dữ liệu như tạo lập cơ sở dữ liệu mới hoặc thay đổi cấu trúc sơ đồ cơ sở dữ liệu. Thay đổi dữ liệu bao gồm việc xóa, cập nhật, sửa đổi dữ liệu trong hệ cơ sở dữ liệu. Các thao tác này sẽ nằm ở phần đỉnh của cấu trúc hệ quản trị cơ sở dữ liệu.
